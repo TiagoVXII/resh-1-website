@@ -1,3 +1,7 @@
+---
+icon: /static/resh1.png
+---
+
 ![](https://cdn.discordapp.com/attachments/1114771264133939230/1125321759420334111/IMG_0565.gif)
 
 # What is the Resh-1 ?
